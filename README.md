@@ -1,3 +1,6 @@
-# My Game is Cool!
+# learning java script
 
-Make sure you give it a good description here...
+## Is fun!!
+
+cool stuff soon
+
